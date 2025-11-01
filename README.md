@@ -1,6 +1,6 @@
-# BlockIAM
+# BlockIAM (v1.0.1)
 
-Simple Python library for interacting with your deployed IAM.sol smart contract to manage IoT device identity and access control.
+Simple Python library-ish framework ??? for interacting with the deployed IAM.sol smart contract to manage IoT device identity and access control.
 
 ## 📦 Installation
 
